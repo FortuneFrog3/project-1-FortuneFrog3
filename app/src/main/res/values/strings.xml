@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MusicTriviaGame</string>
+
+    <!-- Questions -->
+    <string name="question_1">What adjective does Neil Diamond use to describe Caroline?</string>
+    <string name="question_2">Which Killers song opens with the lyric "coming out of my cage and I’ve been doing just fine"?</string>
+    <string name="question_3">"Send in your skeletons, sing as their bones go marching in again" is a lyric from which Foo Fighters song?</string>
+    <string name="question_4">Gimme! Gimme! Gimme! (A Man After Midnight) by ABBA opens with a lyric stating it is what time?</string>
+    <string name="question_5">According to Dreams by Fleetwood Mac, what only happens when it’s raining?</string>
+
+    <!-- Answers -->
+    <string name="answer_1_1">Sweet</string>
+    <string name="answer_1_2">Fine</string>
+    <string name="answer_1_3">Angry</string>
+    <string name="answer_1_4">Salty</string>
+
+    <string name="answer_2_1">When You Were Young</string>
+    <string name="answer_2_2">Bones</string>
+    <string name="answer_2_3">Runaways</string>
+    <string name="answer_2_4">Brightside</string>
+
+    <string name="answer_3_1">Everlong</string>
+    <string name="answer_3_2">The Pretender</string>
+    <string name="answer_3_3">Best of You</string>
+    <string name="answer_3_4">My Hero</string>
+
+    <string name="answer_4_1">One oclock</string>
+    <string name="answer_4_2">Half-past twelve</string>
+    <string name="answer_4_3">Ten thirty</string>
+    <string name="answer_4_4">Five oclock</string>
+
+    <string name="answer_5_1">Showers</string>
+    <string name="answer_5_2">Floods</string>
+    <string name="answer_5_3">Thunder</string>
+    <string name="answer_5_4">Heartbreak</string>
+
+    <!-- Score Text -->
+    <string name="score_text">Score: %d</string>
+</resources>
